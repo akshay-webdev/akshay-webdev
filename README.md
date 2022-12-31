@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akshay-webdev
-- 👀 I’m interested in HTML, CSS, Javascript, Bootstrap,React Js
-- 🌱 I’m currently learning React Js.
+- 👋 Hi, I’m Akshay
+- 👀 I’m interested in HTML, CSS, Javascript, Bootstrap,Angular
+- 🌱 I’m currently learning Angular.
 
 <!---
 akshay-webdev/akshay-webdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
