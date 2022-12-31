@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay
-- 👀 I’m interested in HTML, CSS, Javascript, Bootstrap,Angular
+- 👀 I’m interested in HTML, CSS, Javascript,TypeScript, Bootstrap,Angular
 - 🌱 I’m currently learning Angular.
 
 <!---
